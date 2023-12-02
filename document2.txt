@@ -1,2 +1,6 @@
 Это -- второй документ.
 Здесь тоже будет текст!
+
+NAME
+git-reflog - Manage reflog information
+
